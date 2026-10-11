@@ -1,5 +1,7 @@
 # TDD Project
 
+[![Tests](https://github.com/lisboa0000/store_api/actions/workflows/tests.yml/badge.svg)](https://github.com/lisboa0000/store_api/actions/workflows/tests.yml)
+
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
 
